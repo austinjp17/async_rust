@@ -1,0 +1,30 @@
+# Compiled files
+/target/
+
+# Cargo.lock file
+Cargo.lock
+
+# RLS (Rust Language Server) configuration file
+rls.toml
+
+# Generated documentation
+/doc/
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# macOS metadata
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Compiled wasm files
+/pkg/
+
+# Build output
+build/
+
+# Ignore all .DS_Store files in the repository
+**/.DS_Store
